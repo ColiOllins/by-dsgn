@@ -2,27 +2,27 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "By.Design",
     "description": "",
-    "home_page_url": "https://coliollins.github.io/by-dsgn",
-    "feed_url": "https://coliollins.github.io/by-dsgn/feed.json",
+    "home_page_url": "https://work-by-dsgn",
+    "feed_url": "https://work-by-dsgn/feed.json",
     "user_comment": "",
     "author": {
         "name": "Oli Collins"
     },
     "items": [
         {
-            "id": "https://coliollins.github.io/by-dsgn/bring-promo-to-life/index.html",
-            "url": "https://coliollins.github.io/by-dsgn/bring-promo-to-life/index.html",
+            "id": "https://work-by-dsgn/bring-promo-to-life/index.html",
+            "url": "https://work-by-dsgn/bring-promo-to-life/index.html",
             "title": "Bringing Promo to Life",
             "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut&hellip;",
-            "content_html": "\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n  </p>\n\n  <div  class=\"gallery-wrapper gallery-wrapper--wide\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://coliollins.github.io/by-dsgn/media/posts/1/gallery/1-1920x1080-5010.gif\" data-size=\"1920x1080\">\n        <img loading=\"lazy\" src=\"https://coliollins.github.io/by-dsgn/media/posts/1/gallery/1-1920x1080-5010.gif\" height=\"1080\" width=\"1920\" alt=\"\" >\n      </a>\n      <figcaption>Black Friday 2024</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://coliollins.github.io/by-dsgn/media/posts/1/gallery/3sec-intro.gif\" data-size=\"3840x2160\">\n        <img loading=\"lazy\" src=\"https://coliollins.github.io/by-dsgn/media/posts/1/gallery/3sec-intro.gif\" height=\"2160\" width=\"3840\" alt=\"\" >\n      </a>\n      <figcaption>Winter Sale 2025</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://coliollins.github.io/by-dsgn/media/posts/1/gallery/16.9-Flash-Intro.gif\" data-size=\"1920x1080\">\n        <img loading=\"lazy\" src=\"https://coliollins.github.io/by-dsgn/media/posts/1/gallery/16.9-Flash-Intro.gif\" height=\"1080\" width=\"1920\" alt=\"\" >\n      </a>\n      <figcaption>Flash Sale 2024</figcaption>\n    </figure>\n    </div>\n  </div>\n\n    <figure class=\"blockquote\">\n      <blockquote>It does not matter how slowly you go so long as you do not stop</blockquote>\n      <figcaption>Oli Collins</figcaption>\n    </figure>\n\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n  </p>\n<hr class=\"separator separator--dots\" />\n\n  <p>\n    \n  </p>",
-            "image": "https://coliollins.github.io/by-dsgn/media/posts/1/Super-Sale.gif",
+            "content_html": "\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n  </p>\n\n  <div  class=\"gallery-wrapper gallery-wrapper--wide\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://work-by-dsgn/media/posts/1/gallery/1-1920x1080-5010.gif\" data-size=\"1920x1080\">\n        <img loading=\"lazy\" src=\"https://work-by-dsgn/media/posts/1/gallery/1-1920x1080-5010.gif\" height=\"1080\" width=\"1920\" alt=\"\" >\n      </a>\n      <figcaption>Black Friday 2024</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://work-by-dsgn/media/posts/1/gallery/3sec-intro.gif\" data-size=\"3840x2160\">\n        <img loading=\"lazy\" src=\"https://work-by-dsgn/media/posts/1/gallery/3sec-intro.gif\" height=\"2160\" width=\"3840\" alt=\"\" >\n      </a>\n      <figcaption>Winter Sale 2025</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://work-by-dsgn/media/posts/1/gallery/16.9-Flash-Intro.gif\" data-size=\"1920x1080\">\n        <img loading=\"lazy\" src=\"https://work-by-dsgn/media/posts/1/gallery/16.9-Flash-Intro.gif\" height=\"1080\" width=\"1920\" alt=\"\" >\n      </a>\n      <figcaption>Flash Sale 2024</figcaption>\n    </figure>\n    </div>\n  </div>\n\n    <figure class=\"blockquote\">\n      <blockquote>It does not matter how slowly you go so long as you do not stop</blockquote>\n      <figcaption>Oli Collins</figcaption>\n    </figure>\n\n  <p>\n    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n  </p>\n<hr class=\"separator separator--dots\" />\n\n  <p>\n    \n  </p>",
+            "image": "https://work-by-dsgn/media/posts/1/Super-Sale.gif",
             "author": {
                 "name": "Oli Collins"
             },
             "tags": [
             ],
             "date_published": "2025-01-21T16:05:05+00:00",
-            "date_modified": "2025-01-22T16:09:50+00:00"
+            "date_modified": "2025-01-27T10:48:00+00:00"
         }
     ]
 }
