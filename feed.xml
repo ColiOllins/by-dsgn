@@ -3,7 +3,7 @@
     <title>By.Design</title>
     <link href="https://work-by.design/feed.xml" rel="self" />
     <link href="https://work-by.design" />
-    <updated>2025-01-27T15:37:09+00:00</updated>
+    <updated>2025-01-27T15:48:56+00:00</updated>
     <author>
         <name>Oli Collins</name>
     </author>
@@ -17,6 +17,9 @@
         <link href="https://work-by.design/bring-promo-to-life/index.html"/>
         <id>https://work-by.design/bring-promo-to-life/index.html</id>
         <media:content url="https://work-by.design/media/posts/1/Super-Sale.gif" medium="image" />
+            <category term="Promo"/>
+            <category term="Graphics"/>
+            <category term="Animation"/>
 
         <updated>2025-01-21T16:05:05+00:00</updated>
             <summary>
