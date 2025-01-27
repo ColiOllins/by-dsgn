@@ -1,0 +1,57 @@
+<!DOCTYPE html><html lang="en-gb"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Author: Oli Collins - By.Design</title><meta name="robots" content="noindex,nofollow"><meta name="generator" content="Publii Open-Source CMS for Static Site"><link rel="alternate" type="application/atom+xml" href="https://work-by.design/feed.xml"><link rel="alternate" type="application/json" href="https://work-by.design/feed.json"><meta property="og:title" content="Oli Collins"><meta property="og:image" content="https://work-by.design/media/website/By.Design.svg"><meta property="og:image:width" content="280"><meta property="og:image:height" content="64"><meta property="og:site_name" content="By.Design"><meta property="og:description" content=""><meta property="og:url" content="https://work-by.design/authors/oli-collins/"><meta property="og:type" content="website"><link rel="shortcut icon" href="https://work-by.design/media/website/favicon.png" type="image/png"><link rel="preload" href="https://work-by.design/assets/dynamic/fonts/manrope/manrope.woff2" as="font" type="font/woff2" crossorigin><link rel="stylesheet" href="https://work-by.design/assets/css/style.css?v=7199be29006d059ed62b12f1b6437581"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"By.Design","logo":"https://work-by.design/media/website/By.Design.svg","url":"https://work-by.design/index.html"}</script><noscript><style>img[loading] {
+                    opacity: 1;
+                }</style></noscript></head><body class="author-template"><script>document.addEventListener("DOMContentLoaded", () => {
+  const counters = document.querySelectorAll(".count");
+  const observerOptions = { threshold: 0.5 };
+  
+  const countUp = (counter) => {
+    const target = +counter.getAttribute("data-target");
+    const speed = 200; // Adjust speed for slower or faster animation
+    const increment = target / speed;
+
+    let count = 0;
+
+    const updateCounter = () => {
+      count += increment;
+      if (count < target) {
+        counter.textContent = Math.ceil(count);
+        requestAnimationFrame(updateCounter);
+      } else {
+        counter.textContent = target;
+      }
+    };
+
+    updateCounter();
+  };
+
+  const observerCallback = (entries, observer) => {
+    entries.forEach((entry) => {
+      if (entry.isIntersecting) {
+        const counter = entry.target;
+        countUp(counter);
+        observer.unobserve(counter); // Stop observing once counted
+      }
+    });
+  };
+
+  const observer = new IntersectionObserver(observerCallback, observerOptions);
+
+  counters.forEach((counter) => observer.observe(counter));
+});</script><header class="header" id="js-header"><a href="https://work-by.design/index.html" class="logo"><img src="https://work-by.design/media/website/By.Design.svg" alt="By.Design" width="280" height="64"></a></header><main class="page page--author"><div class="wrapper"><div class="hero"><img src="https://work-by.design/media/website/Oli_02.jpg" loading="eager" height="500" width="500" class="hero__avatar" alt="Oli Collins"><h1>Oli Collins <sup>(0)</sup></h1><p>Digital innovation guru, full of knowledge and always happy to share that knowledge and help others. Oli’s technical expertise combined with design skill is a huge asset to the team and he will always be our team ray of sunshine.</p></div><div class="l-grid l-grid--3"></div></div></main><footer class="footer"><div class="footer__copyright">Powered by creative folk</div></footer><script>window.publiiThemeMenuConfig = {    
+      mobileMenuMode: 'sidebar',
+      animationSpeed: 300,
+      submenuWidth: 'auto',
+      doubleClickTime: 500,
+      mobileMenuExpandableSubmenus: true, 
+      relatedContainerForOverlayMenuSelector: '.navbar',
+   };</script><script defer="defer" src="https://work-by.design/assets/js/scripts.min.js?v=1b09dc64eb6086ddc9720890661ff038"></script><script>var images = document.querySelectorAll('img[loading]');
+
+      for (var i = 0; i < images.length; i++) {
+         if (images[i].complete) {
+               images[i].classList.add('is-loaded');
+         } else {
+               images[i].addEventListener('load', function () {
+                  this.classList.add('is-loaded');
+               }, false);
+         }
+      }</script></body></html>
